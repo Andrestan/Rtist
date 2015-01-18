@@ -6,3 +6,5 @@ Description: Makes nested lists extremely powerful and fast in R.
 Depends: R (>= 3.1.2)
 License: What license is it under?
 LazyData: true
+LinkingTo: Rcpp
+Imports: Rcpp
